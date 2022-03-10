@@ -1,2 +1,2 @@
 # Contacts
-Contacts project demos with local database - sqlite
+Contacts demo project with local database - sqlite
